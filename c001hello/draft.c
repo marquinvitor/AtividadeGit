@@ -14,6 +14,6 @@ int main() {
     // Para pular linha, é necessário usar o caractere especial \n
     // Por exemplo: printf("Oi mundo!\n");
     puts("Oi mundo!"); //TODO: Imprima "Oi mundo!" na tela quebrando a linha
-
+    puts("tchau tchau");
     return 0; // O return 0 informa que o código foi executado com sucesso.
 }
