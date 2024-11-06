@@ -7,7 +7,7 @@
 // a função começa e termina
 
 int main() {
-puts("Rapadura é doce, mas num é mole não!");
+puts("quem muito anda cedo madruga");
 return 0;
 }
 
